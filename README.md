@@ -145,7 +145,7 @@ Exact AWS costs depend on region, traffic, model pricing, and account configurat
 | `infrastructure/template.yaml` | AWS SAM infrastructure definition |
 | `scripts/upload-frontend.sh` | Uploads the static frontend to the deployed S3 bucket |
 | `assets/` | Product visuals and architecture diagrams |
-| `docs/` | PRD, user stories, architecture, tracker, test plan, and build log |
+| `docs/` | PRD, user stories, architecture, tracker, and test plan |
 
 ## Preview locally
 
@@ -256,8 +256,6 @@ These items are roadmap ideas, not features in the current MVP.
 - [Architecture](docs/ARCHITECTURE.md)
 - [Project tracker](docs/PROJECT-TRACKER.md)
 - [Test plan](docs/TEST-PLAN.md)
-- [Build log](docs/BUILD-LOG.md)
-
 ## License
 
 This project is available under the [MIT License](LICENSE).
